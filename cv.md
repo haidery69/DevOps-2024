@@ -1,9 +1,8 @@
 
 # Haider Mansoor
 
-**Address**: House 71, Parkway Road, Safari Villas, Islamabad  
+**Address**: Safari Villas, Islamabad  
 **Email**: haidermig88@gmail.com  
-**Phone**: +92 315 015 1399  
 
 ---
 
