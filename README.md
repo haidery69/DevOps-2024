@@ -5,7 +5,7 @@ Welcome to my DevOps Guide repository for 2024! This project serves as a compreh
 ## Contents
 
 - [Blog Summaries](blogs/)
-  - Summaries of my last two blogs, where I discuss key DevOps topics and practices.
+  - Summaries of my blogs, where I discuss key DevOps topics and practices.
   
 - [Sample Repo & DevOps Tooling](sample-repo/)
   - A sample repository demonstrating the application of various DevOps tools like Docker, CI/CD, and automation scripts.
