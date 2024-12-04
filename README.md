@@ -1,5 +1,4 @@
-# Save the provided markdown content into a file named "guide.md"
-markdown_content = """
+
 # 🚀 DevOps Course 2024 🎯
 
 Welcome to my **DevOps Guide Repository for 2024**! 🎉 This project is a curated collection of my learning journey, contributions, and experiments in the field of DevOps. From blogs to hands-on projects and a showcase of my skills, you'll find everything here to explore and learn along with me. 🌐
