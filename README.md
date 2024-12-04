@@ -35,4 +35,4 @@ This section includes my CV that outlines my DevOps skills and experience. It se
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/DevOps-Guide-2024.git
+   git clone https://github.com/haidery69/DevOps-Guide-2024.git
