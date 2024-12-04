@@ -65,13 +65,14 @@ Follow these steps to explore or contribute:
 1. **Clone the Repository** 🖥️  
    ```bash
    git clone https://github.com/haidery69/DevOps-Guide-2024.git
+   
 2. **Navigate Through the Folders** 📂
 Explore the structured content:
+- blogs/
+- sample-repo/
+- guide.md
+- cv.md
 
-blogs/
-sample-repo/
-guide.md
-cv.md
 Contribute 🤝
 Fork this repository, make changes, and create a pull request to contribute!
 
